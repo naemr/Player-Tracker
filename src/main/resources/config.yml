@@ -4,7 +4,7 @@ check-proxies: true
 enable-onJoin: true
 
 local-db: true
-persistence-days: 60
+persistence-days: 6000
 
 mysql-enable: false
 mysql-database: jdbc:mysql://localhost:3306/minecraft
